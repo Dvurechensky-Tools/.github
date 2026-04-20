@@ -31,6 +31,14 @@ This organization contains a collection of tools and utilities built to solve re
 
 ## Projects
 
+### Dotnetify
+
+https://github.com/Dvurechensky-Tools/Dotnetify
+
+Turn any OpenAPI (`swagger.json`) file into a runnable C# (.NET) backend project in seconds.
+
+---
+
 ### FileSyncSentinel
 
 https://github.com/Dvurechensky-Tools/FileSyncSentinel

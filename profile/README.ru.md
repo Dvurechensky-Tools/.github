@@ -31,6 +31,14 @@
 
 ## Проекты
 
+### Dotnetify
+
+https://github.com/Dvurechensky-Tools/Dotnetify
+
+Превращает любой OpenAPI (`swagger.json`) файл в запускаемый backend-проект на C# (.NET) за считанные секунды.
+
+---
+
 ### FileSyncSentinel
 
 https://github.com/Dvurechensky-Tools/FileSyncSentinel
