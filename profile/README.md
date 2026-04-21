@@ -31,6 +31,14 @@ This organization contains a collection of tools and utilities built to solve re
 
 ## Projects
 
+### LibreResxTranslate
+
+https://github.com/Dvurechensky-Tools/LibreResxTranslate
+
+Automated `.resx` localization library for .NET projects using LibreTranslate.
+
+---
+
 ### Dotnetify
 
 https://github.com/Dvurechensky-Tools/Dotnetify

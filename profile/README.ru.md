@@ -31,6 +31,14 @@
 
 ## Проекты
 
+### LibreResxTranslate
+
+https://github.com/Dvurechensky-Tools/LibreResxTranslate
+
+Библиотека для автоматической локализации `.resx` ресурсов .NET проектов через LibreTranslate.
+
+---
+
 ### Dotnetify
 
 https://github.com/Dvurechensky-Tools/Dotnetify
